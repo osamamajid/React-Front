@@ -1,0 +1,61 @@
+/* الأساسيات */
+body {
+    font-family: 'Arial', sans-serif; /* استبدل بـ Arial بالخط المحدد */
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* لون الخلفية الرمادي الفاتح */
+  }
+  
+  /* الشعار */
+  .logo {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* القسم الأول */
+  .section-1 {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .section-1 h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .section-1 p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .section-1 button {
+    /* أضف أنماط زر "Get started" هنا */
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* القسم الثاني */
+  .section-2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+  }
+  
+  .section-2-item {
+    text-align: center;
+    /* أضف أنماط لكل عنصر في القسم الثاني */
+  }
+  
+  /* القسم الثالث */
+  .section-3 {
+    /* أضف أنماط القسم الثالث هنا */
+  }
+  
+  /* القسم الرابع */
+  .section-4 {
+    /* أضف أنماط القسم الرابع هنا */
+  }
